@@ -1,0 +1,208 @@
+{
+  "model_name": "RandomForestRegressor (CampusFlow Demand)",
+  "training_status": "Trained",
+  "training_timestamp": "2026-10-16T06:41:24.341065+00:00",
+  "dataset_name": "02_education_campus_space/room_requests.csv",
+  "dataset_limitations": "Synthetic campus space data generated for university datathon. Patterns do not reflect actual live sensor telemetry.",
+  "date_coverage": {
+    "start_date": "2026-08-15",
+    "end_date": "2026-10-28",
+    "total_days": 75
+  },
+  "train_date_range": {
+    "start": "2026-08-22",
+    "end": "2026-10-14",
+    "count": 54
+  },
+  "test_date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-28",
+    "count": 14
+  },
+  "features": [
+    "day_of_week",
+    "is_weekend",
+    "day_of_month",
+    "month",
+    "dow_sin",
+    "dow_cos",
+    "lag_1",
+    "lag_7",
+    "rolling_mean_7"
+  ],
+  "feature_importances": {
+    "day_of_week": 0.1868,
+    "is_weekend": 0.1609,
+    "day_of_month": 0.0378,
+    "month": 0.0059,
+    "dow_sin": 0.1099,
+    "dow_cos": 0.0111,
+    "lag_1": 0.0573,
+    "lag_7": 0.3316,
+    "rolling_mean_7": 0.0987
+  },
+  "baseline_mae": 2.482,
+  "model_mae": 2.536,
+  "model_rmse": 3.226,
+  "beat_baseline": false,
+  "improvement_pct": -2.18,
+  "test_eval_series": [
+    {
+      "date": "2026-10-15",
+      "actual": 12,
+      "predicted": 17.0,
+      "baseline": 16.3,
+      "day_of_week": 3
+    },
+    {
+      "date": "2026-10-16",
+      "actual": 16,
+      "predicted": 14.2,
+      "baseline": 12.0,
+      "day_of_week": 4
+    },
+    {
+      "date": "2026-10-17",
+      "actual": 7,
+      "predicted": 10.1,
+      "baseline": 7.0,
+      "day_of_week": 5
+    },
+    {
+      "date": "2026-10-18",
+      "actual": 11,
+      "predicted": 6.0,
+      "baseline": 5.4,
+      "day_of_week": 6
+    },
+    {
+      "date": "2026-10-19",
+      "actual": 14,
+      "predicted": 14.8,
+      "baseline": 13.8,
+      "day_of_week": 0
+    },
+    {
+      "date": "2026-10-20",
+      "actual": 21,
+      "predicted": 15.5,
+      "baseline": 13.4,
+      "day_of_week": 1
+    },
+    {
+      "date": "2026-10-21",
+      "actual": 16,
+      "predicted": 14.1,
+      "baseline": 14.2,
+      "day_of_week": 2
+    },
+    {
+      "date": "2026-10-22",
+      "actual": 21,
+      "predicted": 14.9,
+      "baseline": 16.3,
+      "day_of_week": 3
+    },
+    {
+      "date": "2026-10-23",
+      "actual": 11,
+      "predicted": 12.8,
+      "baseline": 12.0,
+      "day_of_week": 4
+    },
+    {
+      "date": "2026-10-24",
+      "actual": 7,
+      "predicted": 7.1,
+      "baseline": 7.0,
+      "day_of_week": 5
+    },
+    {
+      "date": "2026-10-25",
+      "actual": 9,
+      "predicted": 9.3,
+      "baseline": 5.4,
+      "day_of_week": 6
+    },
+    {
+      "date": "2026-10-26",
+      "actual": 14,
+      "predicted": 13.7,
+      "baseline": 13.8,
+      "day_of_week": 0
+    },
+    {
+      "date": "2026-10-27",
+      "actual": 13,
+      "predicted": 14.1,
+      "baseline": 13.4,
+      "day_of_week": 1
+    },
+    {
+      "date": "2026-10-28",
+      "actual": 13,
+      "predicted": 15.6,
+      "baseline": 14.2,
+      "day_of_week": 2
+    }
+  ],
+  "last_observed_date": "2026-10-28",
+  "recent_history": [
+    {
+      "request_date": "2026-10-15",
+      "total_requests": 12
+    },
+    {
+      "request_date": "2026-10-16",
+      "total_requests": 16
+    },
+    {
+      "request_date": "2026-10-17",
+      "total_requests": 7
+    },
+    {
+      "request_date": "2026-10-18",
+      "total_requests": 11
+    },
+    {
+      "request_date": "2026-10-19",
+      "total_requests": 14
+    },
+    {
+      "request_date": "2026-10-20",
+      "total_requests": 21
+    },
+    {
+      "request_date": "2026-10-21",
+      "total_requests": 16
+    },
+    {
+      "request_date": "2026-10-22",
+      "total_requests": 21
+    },
+    {
+      "request_date": "2026-10-23",
+      "total_requests": 11
+    },
+    {
+      "request_date": "2026-10-24",
+      "total_requests": 7
+    },
+    {
+      "request_date": "2026-10-25",
+      "total_requests": 9
+    },
+    {
+      "request_date": "2026-10-26",
+      "total_requests": 14
+    },
+    {
+      "request_date": "2026-10-27",
+      "total_requests": 13
+    },
+    {
+      "request_date": "2026-10-28",
+      "total_requests": 13
+    }
+  ]
+}

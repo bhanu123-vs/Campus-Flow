@@ -1,0 +1,46 @@
+room_id,building,floor,room_type,capacity,projector,computers,accessible,power_outlets
+SCI-101,Science Complex,1,Study Hall,50,1,0,1,1
+SCI-102,Science Complex,1,Computer Lab,30,1,1,1,1
+SCI-103,Science Complex,1,Classroom,50,1,0,1,1
+SCI-201,Science Complex,2,Conference Room,12,1,0,1,1
+SCI-202,Science Complex,2,Seminar Room,40,1,0,0,1
+SCI-203,Science Complex,2,Classroom,70,1,0,1,1
+SCI-301,Science Complex,3,Seminar Room,20,0,0,1,1
+SCI-302,Science Complex,3,Computer Lab,60,1,1,1,0
+SCI-303,Science Complex,3,Lecture Hall,80,1,0,0,1
+SCI-401,Science Complex,4,Conference Room,16,1,0,1,1
+SCI-402,Science Complex,4,Computer Lab,60,1,1,1,1
+SCI-403,Science Complex,4,Classroom,35,1,0,1,1
+ENG-101,Engineering Hall,1,Seminar Room,20,1,0,1,1
+ENG-102,Engineering Hall,1,Classroom,35,1,0,1,1
+ENG-103,Engineering Hall,1,Classroom,50,0,0,1,1
+ENG-201,Engineering Hall,2,Study Hall,25,0,0,1,1
+ENG-202,Engineering Hall,2,Seminar Room,30,0,0,1,1
+ENG-203,Engineering Hall,2,Conference Room,24,1,0,1,1
+ENG-301,Engineering Hall,3,Lecture Hall,120,1,1,1,1
+ENG-302,Engineering Hall,3,Seminar Room,20,1,0,1,1
+ENG-303,Engineering Hall,3,Classroom,70,1,1,1,1
+HUM-101,Humanities Center,1,Study Hall,25,1,1,1,1
+HUM-102,Humanities Center,1,Seminar Room,20,1,0,1,1
+HUM-103,Humanities Center,1,Classroom,25,1,0,1,1
+HUM-201,Humanities Center,2,Seminar Room,20,1,0,1,1
+HUM-202,Humanities Center,2,Seminar Room,30,1,0,1,1
+HUM-203,Humanities Center,2,Conference Room,12,1,0,1,1
+HUM-301,Humanities Center,3,Seminar Room,20,1,0,1,1
+HUM-302,Humanities Center,3,Classroom,70,1,0,1,1
+HUM-303,Humanities Center,3,Computer Lab,45,1,1,1,0
+STU-101,Student Commons,1,Conference Room,24,1,0,1,1
+STU-102,Student Commons,1,Lecture Hall,80,1,1,1,0
+STU-103,Student Commons,1,Conference Room,16,1,0,1,1
+STU-201,Student Commons,2,Study Hall,25,1,0,0,1
+STU-202,Student Commons,2,Lecture Hall,80,1,0,1,1
+STU-203,Student Commons,2,Study Hall,50,0,0,0,1
+INN-101,Innovation Hub,1,Classroom,70,1,0,1,1
+INN-102,Innovation Hub,1,Study Hall,35,1,0,1,1
+INN-103,Innovation Hub,1,Study Hall,35,1,1,1,1
+INN-201,Innovation Hub,2,Study Hall,25,1,0,1,1
+INN-202,Innovation Hub,2,Computer Lab,45,1,1,1,1
+INN-203,Innovation Hub,2,Classroom,25,1,0,0,1
+INN-301,Innovation Hub,3,Lecture Hall,180,1,1,1,1
+INN-302,Innovation Hub,3,Lecture Hall,120,1,0,1,1
+INN-303,Innovation Hub,3,Computer Lab,30,1,1,1,1

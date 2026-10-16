@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow AI",
+  "description": "Find the right space. Make every room count. Intelligent campus space management, scheduling conflict detection, space utilization analytics, and ML-powered room demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,869 @@
+request_id,request_date,start_hour,duration_hours,required_capacity,projector_required,computers_required,purpose,status
+1,2026-08-15,11,1,40,0,1,Hackathon Project Meeting,Approved
+2,2026-08-15,10,2,15,0,0,Student Club Workshop,Approved
+3,2026-08-15,16,3,15,1,0,Hackathon Project Meeting,Approved
+4,2026-08-16,13,2,25,1,0,Hackathon Project Meeting,Approved
+5,2026-08-16,10,3,100,0,0,Robotics Team Build,Rejected
+6,2026-08-16,16,2,10,1,0,Guest Speaker Reception,Approved
+7,2026-08-17,18,1,100,1,1,Design Critique Session,Approved
+8,2026-08-17,10,2,60,1,0,Midterm Study Session,Approved
+9,2026-08-17,15,2,25,0,0,Design Critique Session,Approved
+10,2026-08-17,15,2,15,1,0,Guest Speaker Reception,Approved
+11,2026-08-17,11,3,25,0,1,Hackathon Project Meeting,Approved
+12,2026-08-17,9,2,40,1,0,Guest Speaker Reception,Rejected
+13,2026-08-17,9,3,40,1,0,Midterm Study Session,Pending
+14,2026-08-17,19,2,15,1,0,Faculty Committee Review,Approved
+15,2026-08-17,18,2,60,1,0,Midterm Study Session,Approved
+16,2026-08-17,9,1,25,1,0,Student Club Workshop,Approved
+17,2026-08-17,9,1,15,0,0,Robotics Team Build,Approved
+18,2026-08-17,9,1,40,1,1,Midterm Study Session,Approved
+19,2026-08-17,11,1,60,0,0,Design Critique Session,Approved
+20,2026-08-17,16,1,100,1,0,Faculty Committee Review,Pending
+21,2026-08-18,16,1,10,0,0,Tutoring and Peer Study,Pending
+22,2026-08-18,18,1,25,1,1,Guest Speaker Reception,Approved
+23,2026-08-18,13,2,100,1,0,Tutoring and Peer Study,Approved
+24,2026-08-18,18,2,10,1,0,Robotics Team Build,Approved
+25,2026-08-18,19,3,100,0,0,Hackathon Project Meeting,Approved
+26,2026-08-18,15,2,60,1,0,Guest Speaker Reception,Approved
+27,2026-08-18,10,2,25,1,0,Student Club Workshop,Approved
+28,2026-08-18,17,1,15,0,0,Student Club Workshop,Approved
+29,2026-08-18,11,2,40,1,0,Hackathon Project Meeting,Approved
+30,2026-08-18,15,2,25,0,0,Guest Speaker Reception,Approved
+31,2026-08-19,14,3,60,1,0,Student Club Workshop,Approved
+32,2026-08-19,14,2,10,0,0,Guest Speaker Reception,Approved
+33,2026-08-19,9,3,40,1,0,Design Critique Session,Rejected
+34,2026-08-19,18,3,40,1,1,Midterm Study Session,Approved
+35,2026-08-19,9,1,100,1,0,Guest Speaker Reception,Approved
+36,2026-08-19,15,1,60,1,0,Midterm Study Session,Approved
+37,2026-08-19,19,1,60,1,0,Guest Speaker Reception,Approved
+38,2026-08-19,19,1,40,0,0,Student Club Workshop,Approved
+39,2026-08-19,13,2,60,1,0,Robotics Team Build,Pending
+40,2026-08-20,19,2,100,0,0,Guest Speaker Reception,Approved
+41,2026-08-20,15,3,15,1,1,Guest Speaker Reception,Approved
+42,2026-08-20,18,2,60,0,0,Design Critique Session,Approved
+43,2026-08-20,14,2,40,1,0,Robotics Team Build,Approved
+44,2026-08-20,16,3,25,1,0,Hackathon Project Meeting,Pending
+45,2026-08-20,14,1,25,1,0,Faculty Committee Review,Approved
+46,2026-08-20,17,1,10,1,0,Hackathon Project Meeting,Rejected
+47,2026-08-20,16,2,60,1,1,Guest Speaker Reception,Approved
+48,2026-08-20,19,3,100,0,0,Faculty Committee Review,Approved
+49,2026-08-20,18,2,100,1,0,Midterm Study Session,Approved
+50,2026-08-21,16,2,40,0,1,Student Club Workshop,Approved
+51,2026-08-21,19,1,10,0,1,Design Critique Session,Approved
+52,2026-08-21,10,2,100,1,0,Robotics Team Build,Approved
+53,2026-08-21,13,2,100,0,0,Faculty Committee Review,Approved
+54,2026-08-21,13,1,10,1,0,Faculty Committee Review,Approved
+55,2026-08-21,14,3,100,0,1,Faculty Committee Review,Approved
+56,2026-08-22,18,2,15,1,1,Faculty Committee Review,Pending
+57,2026-08-22,11,1,60,1,0,Guest Speaker Reception,Pending
+58,2026-08-22,9,1,60,1,1,Guest Speaker Reception,Approved
+59,2026-08-22,17,3,10,1,0,Student Club Workshop,Approved
+60,2026-08-22,19,3,10,1,0,Student Club Workshop,Approved
+61,2026-08-23,15,3,25,1,0,Tutoring and Peer Study,Approved
+62,2026-08-23,18,1,60,1,0,Robotics Team Build,Approved
+63,2026-08-23,18,3,60,0,0,Hackathon Project Meeting,Approved
+64,2026-08-24,15,2,100,0,0,Faculty Committee Review,Approved
+65,2026-08-24,10,3,100,0,1,Midterm Study Session,Approved
+66,2026-08-24,17,2,15,0,1,Guest Speaker Reception,Approved
+67,2026-08-24,9,3,60,0,0,Robotics Team Build,Approved
+68,2026-08-24,11,1,15,1,0,Tutoring and Peer Study,Approved
+69,2026-08-24,9,2,60,0,0,Design Critique Session,Approved
+70,2026-08-24,14,3,100,0,1,Design Critique Session,Approved
+71,2026-08-24,13,3,25,0,0,Faculty Committee Review,Approved
+72,2026-08-24,11,1,100,1,1,Guest Speaker Reception,Rejected
+73,2026-08-24,17,3,10,0,1,Tutoring and Peer Study,Pending
+74,2026-08-25,9,1,15,1,1,Faculty Committee Review,Pending
+75,2026-08-25,9,2,10,1,1,Faculty Committee Review,Approved
+76,2026-08-25,15,3,40,0,1,Faculty Committee Review,Approved
+77,2026-08-25,14,3,15,1,0,Faculty Committee Review,Approved
+78,2026-08-25,16,3,10,1,0,Hackathon Project Meeting,Approved
+79,2026-08-25,10,2,15,1,0,Tutoring and Peer Study,Approved
+80,2026-08-25,19,1,15,0,1,Robotics Team Build,Approved
+81,2026-08-25,16,2,60,0,0,Guest Speaker Reception,Approved
+82,2026-08-26,17,3,100,1,1,Hackathon Project Meeting,Approved
+83,2026-08-26,9,1,10,1,0,Midterm Study Session,Approved
+84,2026-08-26,9,3,10,1,0,Tutoring and Peer Study,Approved
+85,2026-08-26,16,2,10,0,1,Robotics Team Build,Approved
+86,2026-08-26,14,2,15,0,0,Hackathon Project Meeting,Approved
+87,2026-08-26,10,1,15,1,0,Design Critique Session,Rejected
+88,2026-08-26,9,3,10,1,0,Student Club Workshop,Rejected
+89,2026-08-26,14,1,40,1,0,Guest Speaker Reception,Approved
+90,2026-08-26,10,1,15,1,0,Tutoring and Peer Study,Rejected
+91,2026-08-26,14,2,25,1,0,Midterm Study Session,Rejected
+92,2026-08-26,15,3,15,1,1,Guest Speaker Reception,Rejected
+93,2026-08-26,14,2,100,1,0,Hackathon Project Meeting,Approved
+94,2026-08-26,14,2,10,1,1,Guest Speaker Reception,Approved
+95,2026-08-26,18,3,100,0,0,Hackathon Project Meeting,Approved
+96,2026-08-26,16,2,40,1,0,Midterm Study Session,Approved
+97,2026-08-27,11,3,15,1,0,Faculty Committee Review,Approved
+98,2026-08-27,17,3,15,0,0,Student Club Workshop,Approved
+99,2026-08-27,15,1,25,0,0,Guest Speaker Reception,Approved
+100,2026-08-27,19,1,60,0,1,Design Critique Session,Pending
+101,2026-08-27,17,2,15,1,0,Student Club Workshop,Approved
+102,2026-08-27,17,2,40,0,0,Hackathon Project Meeting,Approved
+103,2026-08-27,9,1,100,1,0,Tutoring and Peer Study,Approved
+104,2026-08-27,17,3,60,1,0,Guest Speaker Reception,Approved
+105,2026-08-27,19,2,25,0,0,Guest Speaker Reception,Approved
+106,2026-08-27,11,2,25,1,0,Midterm Study Session,Approved
+107,2026-08-27,14,3,40,1,1,Faculty Committee Review,Approved
+108,2026-08-27,10,1,40,1,1,Design Critique Session,Approved
+109,2026-08-27,9,2,15,1,0,Midterm Study Session,Pending
+110,2026-08-28,18,2,100,1,0,Guest Speaker Reception,Rejected
+111,2026-08-28,11,1,40,0,0,Tutoring and Peer Study,Approved
+112,2026-08-28,11,1,15,1,0,Tutoring and Peer Study,Pending
+113,2026-08-28,9,3,15,1,1,Midterm Study Session,Approved
+114,2026-08-28,19,3,60,1,0,Midterm Study Session,Approved
+115,2026-08-28,18,1,40,1,1,Hackathon Project Meeting,Approved
+116,2026-08-28,13,1,40,1,0,Faculty Committee Review,Approved
+117,2026-08-28,16,1,15,1,0,Robotics Team Build,Approved
+118,2026-08-28,11,1,60,1,0,Midterm Study Session,Approved
+119,2026-08-28,14,1,100,0,1,Midterm Study Session,Approved
+120,2026-08-28,14,2,25,0,0,Tutoring and Peer Study,Approved
+121,2026-08-28,9,1,100,0,0,Guest Speaker Reception,Approved
+122,2026-08-29,15,1,100,1,1,Design Critique Session,Pending
+123,2026-08-29,19,3,15,1,0,Student Club Workshop,Approved
+124,2026-08-29,19,1,25,1,1,Hackathon Project Meeting,Approved
+125,2026-08-29,13,2,10,0,1,Tutoring and Peer Study,Approved
+126,2026-08-29,15,1,100,0,1,Tutoring and Peer Study,Rejected
+127,2026-08-29,10,3,10,1,0,Student Club Workshop,Approved
+128,2026-08-29,11,3,100,0,0,Robotics Team Build,Rejected
+129,2026-08-30,14,2,40,1,1,Faculty Committee Review,Approved
+130,2026-08-30,9,1,15,1,0,Design Critique Session,Approved
+131,2026-08-30,11,3,25,0,0,Tutoring and Peer Study,Approved
+132,2026-08-30,15,2,25,1,0,Guest Speaker Reception,Rejected
+133,2026-08-30,18,3,60,1,0,Design Critique Session,Approved
+134,2026-08-30,9,3,25,0,0,Hackathon Project Meeting,Approved
+135,2026-08-31,13,1,25,0,0,Midterm Study Session,Approved
+136,2026-08-31,19,3,100,0,0,Hackathon Project Meeting,Approved
+137,2026-08-31,13,2,10,1,1,Hackathon Project Meeting,Rejected
+138,2026-08-31,10,1,40,1,0,Robotics Team Build,Rejected
+139,2026-08-31,17,3,15,0,1,Midterm Study Session,Approved
+140,2026-08-31,16,1,60,1,0,Midterm Study Session,Approved
+141,2026-08-31,14,3,10,1,1,Robotics Team Build,Pending
+142,2026-08-31,16,2,15,1,0,Faculty Committee Review,Approved
+143,2026-08-31,10,1,100,1,1,Robotics Team Build,Approved
+144,2026-08-31,17,1,60,0,0,Robotics Team Build,Rejected
+145,2026-08-31,17,1,25,1,0,Faculty Committee Review,Approved
+146,2026-08-31,18,2,100,1,1,Faculty Committee Review,Rejected
+147,2026-09-01,11,2,10,1,0,Faculty Committee Review,Pending
+148,2026-09-01,10,2,60,1,0,Faculty Committee Review,Approved
+149,2026-09-01,9,2,60,0,0,Guest Speaker Reception,Approved
+150,2026-09-01,13,3,60,0,1,Tutoring and Peer Study,Approved
+151,2026-09-01,13,3,15,0,1,Midterm Study Session,Approved
+152,2026-09-01,11,2,10,1,0,Tutoring and Peer Study,Approved
+153,2026-09-01,17,3,15,1,1,Robotics Team Build,Approved
+154,2026-09-01,9,3,60,1,1,Guest Speaker Reception,Approved
+155,2026-09-01,15,1,25,1,0,Robotics Team Build,Rejected
+156,2026-09-02,11,3,15,1,0,Hackathon Project Meeting,Rejected
+157,2026-09-02,11,2,25,1,1,Tutoring and Peer Study,Approved
+158,2026-09-02,13,1,25,1,0,Student Club Workshop,Approved
+159,2026-09-02,16,1,15,1,0,Robotics Team Build,Pending
+160,2026-09-02,16,1,60,0,1,Tutoring and Peer Study,Approved
+161,2026-09-02,13,2,60,1,0,Midterm Study Session,Approved
+162,2026-09-02,10,1,25,1,1,Guest Speaker Reception,Pending
+163,2026-09-02,10,1,10,1,0,Midterm Study Session,Approved
+164,2026-09-02,17,2,60,0,0,Design Critique Session,Pending
+165,2026-09-02,19,2,100,1,0,Robotics Team Build,Rejected
+166,2026-09-02,15,3,15,1,0,Faculty Committee Review,Approved
+167,2026-09-02,10,2,100,0,0,Guest Speaker Reception,Approved
+168,2026-09-02,14,2,100,1,0,Hackathon Project Meeting,Approved
+169,2026-09-03,11,2,15,0,0,Guest Speaker Reception,Approved
+170,2026-09-03,14,2,25,1,1,Faculty Committee Review,Approved
+171,2026-09-03,13,1,15,0,0,Tutoring and Peer Study,Approved
+172,2026-09-03,11,3,10,1,0,Hackathon Project Meeting,Rejected
+173,2026-09-03,11,1,60,1,1,Student Club Workshop,Pending
+174,2026-09-03,14,3,40,1,0,Design Critique Session,Approved
+175,2026-09-03,17,2,60,1,1,Design Critique Session,Approved
+176,2026-09-03,13,2,15,1,1,Hackathon Project Meeting,Pending
+177,2026-09-03,17,3,100,1,0,Tutoring and Peer Study,Approved
+178,2026-09-03,19,1,60,1,1,Midterm Study Session,Approved
+179,2026-09-03,9,1,10,1,1,Tutoring and Peer Study,Approved
+180,2026-09-03,17,3,40,1,1,Hackathon Project Meeting,Approved
+181,2026-09-03,18,3,100,1,0,Faculty Committee Review,Approved
+182,2026-09-03,15,3,15,1,0,Design Critique Session,Rejected
+183,2026-09-03,17,1,40,1,0,Design Critique Session,Rejected
+184,2026-09-04,19,3,40,1,1,Student Club Workshop,Approved
+185,2026-09-04,13,2,40,1,0,Midterm Study Session,Approved
+186,2026-09-04,9,1,40,0,0,Student Club Workshop,Approved
+187,2026-09-04,9,3,100,1,0,Design Critique Session,Approved
+188,2026-09-04,15,1,60,1,1,Hackathon Project Meeting,Rejected
+189,2026-09-04,16,3,100,0,0,Tutoring and Peer Study,Rejected
+190,2026-09-04,19,1,25,0,0,Faculty Committee Review,Approved
+191,2026-09-04,17,3,10,0,1,Student Club Workshop,Rejected
+192,2026-09-04,11,2,60,1,0,Guest Speaker Reception,Approved
+193,2026-09-04,13,3,15,0,1,Midterm Study Session,Approved
+194,2026-09-05,17,3,60,1,0,Faculty Committee Review,Rejected
+195,2026-09-05,16,2,100,0,0,Midterm Study Session,Pending
+196,2026-09-05,9,2,25,1,0,Hackathon Project Meeting,Approved
+197,2026-09-05,11,2,40,1,0,Midterm Study Session,Approved
+198,2026-09-05,13,3,40,1,1,Faculty Committee Review,Approved
+199,2026-09-05,18,2,60,1,1,Robotics Team Build,Pending
+200,2026-09-05,10,2,100,0,0,Midterm Study Session,Rejected
+201,2026-09-06,19,3,10,1,0,Tutoring and Peer Study,Approved
+202,2026-09-06,11,1,25,1,1,Midterm Study Session,Approved
+203,2026-09-06,15,3,40,1,0,Midterm Study Session,Rejected
+204,2026-09-06,14,3,25,0,0,Hackathon Project Meeting,Approved
+205,2026-09-07,15,1,25,0,0,Tutoring and Peer Study,Pending
+206,2026-09-07,17,2,40,0,0,Design Critique Session,Approved
+207,2026-09-07,18,3,40,1,1,Design Critique Session,Approved
+208,2026-09-07,11,3,60,1,1,Tutoring and Peer Study,Rejected
+209,2026-09-07,10,3,10,1,0,Midterm Study Session,Approved
+210,2026-09-07,16,1,40,0,1,Design Critique Session,Pending
+211,2026-09-07,17,3,15,1,0,Tutoring and Peer Study,Approved
+212,2026-09-07,18,2,40,0,1,Midterm Study Session,Approved
+213,2026-09-07,11,3,100,0,0,Hackathon Project Meeting,Approved
+214,2026-09-07,14,3,25,0,0,Tutoring and Peer Study,Approved
+215,2026-09-07,11,2,25,0,0,Robotics Team Build,Approved
+216,2026-09-07,17,2,100,1,0,Hackathon Project Meeting,Approved
+217,2026-09-08,14,1,25,1,1,Student Club Workshop,Approved
+218,2026-09-08,13,1,40,1,0,Robotics Team Build,Rejected
+219,2026-09-08,16,1,25,0,1,Midterm Study Session,Approved
+220,2026-09-08,19,1,15,0,0,Hackathon Project Meeting,Approved
+221,2026-09-08,18,2,100,0,0,Hackathon Project Meeting,Approved
+222,2026-09-08,16,3,25,0,0,Midterm Study Session,Approved
+223,2026-09-08,10,3,10,1,1,Hackathon Project Meeting,Approved
+224,2026-09-08,13,2,15,0,0,Hackathon Project Meeting,Pending
+225,2026-09-08,17,1,15,0,1,Design Critique Session,Pending
+226,2026-09-08,10,3,15,0,1,Tutoring and Peer Study,Approved
+227,2026-09-08,9,2,100,0,1,Guest Speaker Reception,Rejected
+228,2026-09-08,9,3,100,1,0,Robotics Team Build,Approved
+229,2026-09-08,11,3,15,0,0,Hackathon Project Meeting,Pending
+230,2026-09-08,10,1,15,1,0,Guest Speaker Reception,Approved
+231,2026-09-08,10,2,15,1,1,Tutoring and Peer Study,Approved
+232,2026-09-09,15,3,40,1,0,Robotics Team Build,Pending
+233,2026-09-09,13,2,100,0,1,Student Club Workshop,Pending
+234,2026-09-09,14,2,25,1,0,Robotics Team Build,Approved
+235,2026-09-09,14,1,40,1,0,Faculty Committee Review,Approved
+236,2026-09-09,18,2,25,0,0,Design Critique Session,Approved
+237,2026-09-09,18,1,60,1,1,Student Club Workshop,Approved
+238,2026-09-09,11,3,100,1,0,Faculty Committee Review,Rejected
+239,2026-09-09,11,1,15,1,0,Design Critique Session,Approved
+240,2026-09-09,17,3,100,1,0,Guest Speaker Reception,Approved
+241,2026-09-09,10,1,15,1,0,Midterm Study Session,Approved
+242,2026-09-10,14,2,60,0,0,Midterm Study Session,Approved
+243,2026-09-10,18,3,15,1,0,Student Club Workshop,Rejected
+244,2026-09-10,17,3,15,1,0,Hackathon Project Meeting,Approved
+245,2026-09-10,9,2,25,0,0,Robotics Team Build,Approved
+246,2026-09-10,9,2,10,0,0,Student Club Workshop,Approved
+247,2026-09-10,17,3,10,1,0,Faculty Committee Review,Rejected
+248,2026-09-10,14,3,15,1,0,Student Club Workshop,Approved
+249,2026-09-10,15,3,100,1,0,Student Club Workshop,Approved
+250,2026-09-10,17,2,40,0,0,Midterm Study Session,Approved
+251,2026-09-10,18,1,40,1,0,Tutoring and Peer Study,Approved
+252,2026-09-10,11,1,25,1,0,Midterm Study Session,Approved
+253,2026-09-10,9,1,60,1,0,Midterm Study Session,Approved
+254,2026-09-10,9,2,10,1,0,Midterm Study Session,Rejected
+255,2026-09-11,17,3,25,1,1,Hackathon Project Meeting,Rejected
+256,2026-09-11,10,1,100,0,0,Faculty Committee Review,Pending
+257,2026-09-11,9,2,100,1,0,Hackathon Project Meeting,Approved
+258,2026-09-11,13,3,10,1,0,Tutoring and Peer Study,Approved
+259,2026-09-11,11,3,10,1,0,Design Critique Session,Pending
+260,2026-09-11,17,1,25,0,0,Tutoring and Peer Study,Approved
+261,2026-09-11,16,2,60,1,0,Hackathon Project Meeting,Pending
+262,2026-09-11,13,3,15,1,0,Hackathon Project Meeting,Pending
+263,2026-09-11,9,2,40,0,0,Robotics Team Build,Approved
+264,2026-09-11,19,2,10,0,1,Midterm Study Session,Approved
+265,2026-09-11,18,1,40,1,0,Hackathon Project Meeting,Approved
+266,2026-09-11,18,1,15,1,1,Design Critique Session,Approved
+267,2026-09-11,17,1,100,1,1,Hackathon Project Meeting,Approved
+268,2026-09-11,14,2,25,1,0,Faculty Committee Review,Pending
+269,2026-09-12,14,2,40,1,0,Robotics Team Build,Approved
+270,2026-09-12,11,1,15,0,0,Midterm Study Session,Approved
+271,2026-09-12,18,2,100,1,0,Student Club Workshop,Approved
+272,2026-09-12,11,3,15,0,0,Faculty Committee Review,Approved
+273,2026-09-12,9,2,15,0,1,Faculty Committee Review,Pending
+274,2026-09-12,19,3,15,0,0,Tutoring and Peer Study,Approved
+275,2026-09-12,17,1,15,1,1,Robotics Team Build,Approved
+276,2026-09-13,11,2,100,1,0,Design Critique Session,Approved
+277,2026-09-13,17,2,100,1,0,Student Club Workshop,Approved
+278,2026-09-13,13,3,40,1,0,Tutoring and Peer Study,Approved
+279,2026-09-13,11,1,25,1,0,Faculty Committee Review,Pending
+280,2026-09-13,11,2,25,0,0,Design Critique Session,Rejected
+281,2026-09-13,9,2,25,1,0,Faculty Committee Review,Approved
+282,2026-09-14,17,1,15,1,0,Design Critique Session,Approved
+283,2026-09-14,14,3,25,1,0,Student Club Workshop,Approved
+284,2026-09-14,16,1,10,1,0,Robotics Team Build,Approved
+285,2026-09-14,17,1,40,1,0,Robotics Team Build,Approved
+286,2026-09-14,9,3,100,1,1,Hackathon Project Meeting,Approved
+287,2026-09-14,19,3,25,1,1,Guest Speaker Reception,Pending
+288,2026-09-14,10,2,40,1,1,Design Critique Session,Pending
+289,2026-09-14,18,3,100,1,0,Tutoring and Peer Study,Approved
+290,2026-09-14,14,2,60,0,0,Guest Speaker Reception,Approved
+291,2026-09-14,9,3,60,0,1,Midterm Study Session,Approved
+292,2026-09-14,15,2,40,0,0,Midterm Study Session,Approved
+293,2026-09-14,9,3,60,1,1,Robotics Team Build,Approved
+294,2026-09-14,13,1,100,0,0,Faculty Committee Review,Approved
+295,2026-09-14,18,3,100,0,0,Guest Speaker Reception,Approved
+296,2026-09-14,16,3,15,1,0,Hackathon Project Meeting,Approved
+297,2026-09-15,11,2,25,0,0,Midterm Study Session,Approved
+298,2026-09-15,15,1,25,0,0,Faculty Committee Review,Approved
+299,2026-09-15,18,1,25,1,0,Robotics Team Build,Approved
+300,2026-09-15,17,2,100,1,0,Guest Speaker Reception,Approved
+301,2026-09-15,19,3,60,1,1,Guest Speaker Reception,Approved
+302,2026-09-15,16,2,15,0,0,Student Club Workshop,Rejected
+303,2026-09-15,13,1,25,1,0,Student Club Workshop,Approved
+304,2026-09-15,17,3,60,0,1,Design Critique Session,Approved
+305,2026-09-15,13,2,25,1,0,Design Critique Session,Approved
+306,2026-09-15,16,2,10,1,0,Hackathon Project Meeting,Pending
+307,2026-09-15,11,3,60,1,1,Guest Speaker Reception,Approved
+308,2026-09-15,16,2,60,0,0,Student Club Workshop,Rejected
+309,2026-09-15,15,2,10,1,1,Faculty Committee Review,Pending
+310,2026-09-15,14,2,25,1,1,Faculty Committee Review,Approved
+311,2026-09-15,15,3,40,0,0,Design Critique Session,Approved
+312,2026-09-15,16,1,15,1,0,Student Club Workshop,Rejected
+313,2026-09-16,13,3,10,0,0,Design Critique Session,Approved
+314,2026-09-16,15,2,60,0,1,Hackathon Project Meeting,Approved
+315,2026-09-16,18,2,40,0,0,Tutoring and Peer Study,Approved
+316,2026-09-16,9,3,60,1,0,Faculty Committee Review,Rejected
+317,2026-09-16,14,2,10,0,0,Tutoring and Peer Study,Approved
+318,2026-09-16,11,3,60,0,0,Tutoring and Peer Study,Approved
+319,2026-09-16,16,3,25,0,0,Hackathon Project Meeting,Pending
+320,2026-09-16,18,2,40,0,0,Hackathon Project Meeting,Approved
+321,2026-09-16,13,2,100,1,1,Midterm Study Session,Approved
+322,2026-09-16,16,3,10,1,0,Guest Speaker Reception,Approved
+323,2026-09-16,9,3,60,0,1,Faculty Committee Review,Approved
+324,2026-09-16,18,3,25,1,0,Hackathon Project Meeting,Rejected
+325,2026-09-16,14,1,60,1,0,Faculty Committee Review,Approved
+326,2026-09-16,11,3,60,0,0,Tutoring and Peer Study,Pending
+327,2026-09-16,10,2,10,0,0,Design Critique Session,Rejected
+328,2026-09-17,16,2,25,1,0,Guest Speaker Reception,Rejected
+329,2026-09-17,9,3,40,0,1,Design Critique Session,Approved
+330,2026-09-17,17,2,25,0,1,Midterm Study Session,Approved
+331,2026-09-17,14,3,25,1,0,Faculty Committee Review,Approved
+332,2026-09-17,10,2,40,0,1,Robotics Team Build,Approved
+333,2026-09-17,11,2,100,1,0,Design Critique Session,Approved
+334,2026-09-17,9,2,40,1,0,Guest Speaker Reception,Approved
+335,2026-09-17,17,1,10,1,0,Design Critique Session,Approved
+336,2026-09-17,11,1,10,1,1,Robotics Team Build,Approved
+337,2026-09-17,16,2,10,0,1,Midterm Study Session,Pending
+338,2026-09-17,18,1,10,1,0,Guest Speaker Reception,Rejected
+339,2026-09-17,11,2,15,1,0,Student Club Workshop,Approved
+340,2026-09-17,10,1,60,1,0,Hackathon Project Meeting,Approved
+341,2026-09-17,11,3,60,1,0,Hackathon Project Meeting,Approved
+342,2026-09-17,11,1,15,1,0,Robotics Team Build,Approved
+343,2026-09-17,10,3,60,1,0,Tutoring and Peer Study,Approved
+344,2026-09-17,18,3,40,1,0,Guest Speaker Reception,Approved
+345,2026-09-17,15,2,10,1,0,Student Club Workshop,Approved
+346,2026-09-18,14,3,25,1,0,Robotics Team Build,Approved
+347,2026-09-18,17,3,60,0,1,Midterm Study Session,Approved
+348,2026-09-18,14,3,25,1,1,Design Critique Session,Approved
+349,2026-09-18,13,3,40,0,0,Tutoring and Peer Study,Approved
+350,2026-09-18,19,2,100,0,1,Student Club Workshop,Approved
+351,2026-09-18,17,2,100,1,1,Robotics Team Build,Pending
+352,2026-09-18,16,1,100,1,1,Design Critique Session,Pending
+353,2026-09-18,13,2,60,1,1,Midterm Study Session,Pending
+354,2026-09-18,13,1,100,0,0,Robotics Team Build,Approved
+355,2026-09-18,15,3,15,1,0,Hackathon Project Meeting,Approved
+356,2026-09-18,18,2,15,1,1,Tutoring and Peer Study,Approved
+357,2026-09-18,15,1,10,0,0,Faculty Committee Review,Approved
+358,2026-09-19,17,3,100,0,0,Student Club Workshop,Approved
+359,2026-09-19,13,1,40,0,1,Design Critique Session,Approved
+360,2026-09-19,13,3,60,1,0,Midterm Study Session,Approved
+361,2026-09-19,11,3,100,0,0,Faculty Committee Review,Approved
+362,2026-09-19,17,2,15,0,1,Guest Speaker Reception,Rejected
+363,2026-09-19,15,1,100,1,0,Tutoring and Peer Study,Approved
+364,2026-09-20,13,2,15,0,1,Student Club Workshop,Approved
+365,2026-09-20,14,1,40,1,0,Tutoring and Peer Study,Approved
+366,2026-09-20,17,3,15,1,0,Robotics Team Build,Approved
+367,2026-09-20,11,3,25,1,0,Tutoring and Peer Study,Rejected
+368,2026-09-20,9,2,25,1,0,Student Club Workshop,Approved
+369,2026-09-20,13,2,100,1,0,Faculty Committee Review,Approved
+370,2026-09-21,9,2,60,1,0,Robotics Team Build,Approved
+371,2026-09-21,17,3,40,1,0,Student Club Workshop,Rejected
+372,2026-09-21,17,2,25,1,0,Tutoring and Peer Study,Approved
+373,2026-09-21,17,3,40,0,0,Design Critique Session,Approved
+374,2026-09-21,19,3,25,0,0,Faculty Committee Review,Approved
+375,2026-09-21,15,2,60,1,1,Design Critique Session,Approved
+376,2026-09-21,18,3,100,1,0,Tutoring and Peer Study,Approved
+377,2026-09-21,10,3,100,0,1,Guest Speaker Reception,Rejected
+378,2026-09-21,17,2,100,1,0,Faculty Committee Review,Rejected
+379,2026-09-21,14,1,100,0,1,Midterm Study Session,Approved
+380,2026-09-21,10,3,25,0,0,Hackathon Project Meeting,Pending
+381,2026-09-21,16,2,40,1,1,Faculty Committee Review,Rejected
+382,2026-09-21,17,2,15,1,0,Design Critique Session,Approved
+383,2026-09-21,9,2,40,1,0,Faculty Committee Review,Approved
+384,2026-09-21,10,2,100,1,0,Midterm Study Session,Pending
+385,2026-09-21,14,1,25,0,0,Tutoring and Peer Study,Approved
+386,2026-09-22,15,2,15,0,0,Hackathon Project Meeting,Rejected
+387,2026-09-22,13,2,10,1,0,Midterm Study Session,Approved
+388,2026-09-22,16,1,40,1,1,Design Critique Session,Approved
+389,2026-09-22,16,1,60,0,0,Midterm Study Session,Rejected
+390,2026-09-22,18,2,15,1,1,Midterm Study Session,Approved
+391,2026-09-22,11,3,60,1,0,Midterm Study Session,Approved
+392,2026-09-22,15,3,15,1,0,Design Critique Session,Approved
+393,2026-09-22,11,3,60,1,0,Faculty Committee Review,Approved
+394,2026-09-22,10,3,60,0,0,Tutoring and Peer Study,Approved
+395,2026-09-22,11,3,60,0,1,Robotics Team Build,Approved
+396,2026-09-22,19,2,60,1,0,Robotics Team Build,Approved
+397,2026-09-22,10,2,25,1,1,Midterm Study Session,Approved
+398,2026-09-22,10,2,25,1,0,Faculty Committee Review,Rejected
+399,2026-09-22,11,2,100,1,0,Student Club Workshop,Approved
+400,2026-09-22,17,2,25,1,1,Midterm Study Session,Approved
+401,2026-09-22,10,2,25,1,1,Hackathon Project Meeting,Pending
+402,2026-09-23,15,3,100,1,1,Tutoring and Peer Study,Pending
+403,2026-09-23,15,2,100,0,1,Midterm Study Session,Approved
+404,2026-09-23,16,3,40,1,0,Design Critique Session,Approved
+405,2026-09-23,19,3,100,1,1,Student Club Workshop,Approved
+406,2026-09-23,14,1,25,0,0,Midterm Study Session,Approved
+407,2026-09-23,9,2,100,0,1,Design Critique Session,Approved
+408,2026-09-23,15,1,15,0,0,Faculty Committee Review,Rejected
+409,2026-09-23,9,2,40,1,0,Faculty Committee Review,Pending
+410,2026-09-23,18,1,60,1,0,Tutoring and Peer Study,Approved
+411,2026-09-23,16,1,15,1,0,Design Critique Session,Approved
+412,2026-09-23,16,2,60,1,1,Student Club Workshop,Rejected
+413,2026-09-23,10,1,40,1,1,Tutoring and Peer Study,Pending
+414,2026-09-23,13,3,25,0,0,Tutoring and Peer Study,Approved
+415,2026-09-23,19,3,60,1,0,Guest Speaker Reception,Approved
+416,2026-09-23,15,2,10,1,0,Student Club Workshop,Approved
+417,2026-09-23,16,2,15,0,1,Student Club Workshop,Approved
+418,2026-09-24,11,3,60,1,1,Hackathon Project Meeting,Approved
+419,2026-09-24,18,1,25,0,0,Design Critique Session,Approved
+420,2026-09-24,17,2,100,1,0,Hackathon Project Meeting,Approved
+421,2026-09-24,9,2,40,1,0,Hackathon Project Meeting,Approved
+422,2026-09-24,9,3,15,1,0,Design Critique Session,Rejected
+423,2026-09-24,9,2,25,0,1,Guest Speaker Reception,Approved
+424,2026-09-24,18,1,40,1,0,Guest Speaker Reception,Rejected
+425,2026-09-24,16,1,10,1,0,Guest Speaker Reception,Approved
+426,2026-09-24,17,1,15,1,0,Faculty Committee Review,Approved
+427,2026-09-24,13,1,60,1,1,Student Club Workshop,Approved
+428,2026-09-24,15,3,100,1,1,Student Club Workshop,Approved
+429,2026-09-24,16,1,60,1,1,Student Club Workshop,Approved
+430,2026-09-24,11,3,100,0,0,Guest Speaker Reception,Approved
+431,2026-09-24,10,1,15,1,1,Faculty Committee Review,Approved
+432,2026-09-24,10,1,60,1,0,Design Critique Session,Pending
+433,2026-09-24,9,2,25,1,0,Midterm Study Session,Approved
+434,2026-09-24,19,2,15,1,1,Guest Speaker Reception,Approved
+435,2026-09-24,14,3,10,1,0,Hackathon Project Meeting,Approved
+436,2026-09-25,13,1,10,0,0,Robotics Team Build,Rejected
+437,2026-09-25,18,3,40,1,0,Design Critique Session,Approved
+438,2026-09-25,10,1,15,0,0,Faculty Committee Review,Pending
+439,2026-09-25,10,3,10,1,0,Tutoring and Peer Study,Approved
+440,2026-09-25,13,1,40,1,0,Student Club Workshop,Approved
+441,2026-09-25,17,1,15,1,0,Design Critique Session,Approved
+442,2026-09-25,18,2,60,1,0,Design Critique Session,Approved
+443,2026-09-25,17,3,25,1,1,Guest Speaker Reception,Approved
+444,2026-09-25,9,2,25,1,1,Hackathon Project Meeting,Approved
+445,2026-09-25,9,2,15,1,1,Faculty Committee Review,Pending
+446,2026-09-25,9,2,100,1,0,Faculty Committee Review,Pending
+447,2026-09-25,10,1,10,1,0,Guest Speaker Reception,Approved
+448,2026-09-25,15,2,40,1,0,Student Club Workshop,Approved
+449,2026-09-25,13,1,100,0,0,Student Club Workshop,Approved
+450,2026-09-26,9,2,40,0,1,Guest Speaker Reception,Approved
+451,2026-09-26,15,3,100,1,1,Design Critique Session,Pending
+452,2026-09-26,16,1,15,1,1,Faculty Committee Review,Pending
+453,2026-09-26,10,2,10,0,0,Guest Speaker Reception,Rejected
+454,2026-09-26,14,3,10,1,1,Robotics Team Build,Approved
+455,2026-09-26,13,1,10,0,0,Robotics Team Build,Approved
+456,2026-09-26,19,1,40,1,0,Robotics Team Build,Approved
+457,2026-09-27,14,3,40,0,1,Midterm Study Session,Approved
+458,2026-09-27,19,1,25,1,0,Guest Speaker Reception,Approved
+459,2026-09-27,16,1,25,1,0,Hackathon Project Meeting,Approved
+460,2026-09-27,19,1,40,0,0,Guest Speaker Reception,Approved
+461,2026-09-27,19,1,10,1,1,Robotics Team Build,Rejected
+462,2026-09-27,13,2,60,1,0,Faculty Committee Review,Approved
+463,2026-09-28,10,1,40,1,1,Student Club Workshop,Approved
+464,2026-09-28,19,3,40,1,0,Guest Speaker Reception,Pending
+465,2026-09-28,16,2,100,1,0,Student Club Workshop,Approved
+466,2026-09-28,11,2,25,1,0,Midterm Study Session,Approved
+467,2026-09-28,18,2,100,0,0,Robotics Team Build,Rejected
+468,2026-09-28,14,1,100,0,0,Hackathon Project Meeting,Pending
+469,2026-09-28,9,2,100,1,0,Faculty Committee Review,Approved
+470,2026-09-28,11,3,15,1,0,Tutoring and Peer Study,Approved
+471,2026-09-28,19,2,10,1,1,Guest Speaker Reception,Pending
+472,2026-09-28,14,2,60,1,0,Design Critique Session,Approved
+473,2026-09-28,9,3,25,1,0,Guest Speaker Reception,Approved
+474,2026-09-28,16,1,15,1,0,Hackathon Project Meeting,Approved
+475,2026-09-28,9,2,15,1,1,Robotics Team Build,Approved
+476,2026-09-28,16,1,25,1,1,Robotics Team Build,Pending
+477,2026-09-28,15,3,40,1,1,Faculty Committee Review,Approved
+478,2026-09-29,17,2,100,1,0,Faculty Committee Review,Approved
+479,2026-09-29,15,1,40,1,0,Student Club Workshop,Approved
+480,2026-09-29,18,3,60,1,0,Guest Speaker Reception,Approved
+481,2026-09-29,13,1,15,0,0,Tutoring and Peer Study,Approved
+482,2026-09-29,11,3,40,1,1,Tutoring and Peer Study,Approved
+483,2026-09-29,10,2,100,1,0,Design Critique Session,Rejected
+484,2026-09-29,17,3,25,0,0,Midterm Study Session,Approved
+485,2026-09-29,15,3,60,0,0,Tutoring and Peer Study,Approved
+486,2026-09-29,9,3,15,1,1,Student Club Workshop,Approved
+487,2026-09-29,15,3,25,1,1,Tutoring and Peer Study,Pending
+488,2026-09-29,9,3,10,1,0,Faculty Committee Review,Approved
+489,2026-09-29,16,3,60,1,1,Tutoring and Peer Study,Approved
+490,2026-09-29,13,3,25,0,1,Tutoring and Peer Study,Pending
+491,2026-09-29,14,2,60,1,0,Midterm Study Session,Approved
+492,2026-09-29,13,2,15,1,1,Student Club Workshop,Approved
+493,2026-09-29,9,3,10,0,1,Tutoring and Peer Study,Pending
+494,2026-09-29,19,1,15,1,1,Tutoring and Peer Study,Approved
+495,2026-09-30,18,2,60,1,1,Hackathon Project Meeting,Approved
+496,2026-09-30,17,3,25,0,0,Tutoring and Peer Study,Approved
+497,2026-09-30,19,1,60,0,0,Student Club Workshop,Rejected
+498,2026-09-30,10,3,60,1,1,Tutoring and Peer Study,Approved
+499,2026-09-30,14,2,100,1,1,Student Club Workshop,Approved
+500,2026-09-30,18,2,10,0,1,Faculty Committee Review,Approved
+501,2026-09-30,10,1,40,0,0,Student Club Workshop,Approved
+502,2026-09-30,14,1,10,0,0,Hackathon Project Meeting,Approved
+503,2026-09-30,9,3,40,1,1,Tutoring and Peer Study,Approved
+504,2026-09-30,19,1,25,1,1,Faculty Committee Review,Approved
+505,2026-09-30,9,1,10,1,0,Tutoring and Peer Study,Approved
+506,2026-10-01,16,1,25,1,0,Midterm Study Session,Approved
+507,2026-10-01,13,2,40,1,0,Tutoring and Peer Study,Approved
+508,2026-10-01,15,1,100,0,0,Design Critique Session,Approved
+509,2026-10-01,13,1,25,1,1,Student Club Workshop,Rejected
+510,2026-10-01,15,3,60,0,0,Robotics Team Build,Approved
+511,2026-10-01,17,2,40,1,1,Hackathon Project Meeting,Approved
+512,2026-10-01,11,1,40,1,0,Tutoring and Peer Study,Approved
+513,2026-10-01,16,2,100,1,0,Guest Speaker Reception,Pending
+514,2026-10-01,19,2,60,0,0,Design Critique Session,Approved
+515,2026-10-01,17,1,25,0,1,Guest Speaker Reception,Approved
+516,2026-10-01,14,2,25,1,0,Student Club Workshop,Approved
+517,2026-10-01,19,3,40,0,1,Robotics Team Build,Approved
+518,2026-10-01,15,1,100,1,0,Midterm Study Session,Rejected
+519,2026-10-01,16,3,10,1,1,Robotics Team Build,Approved
+520,2026-10-01,15,1,25,1,0,Guest Speaker Reception,Approved
+521,2026-10-01,9,3,10,0,0,Faculty Committee Review,Approved
+522,2026-10-01,11,1,25,0,0,Design Critique Session,Pending
+523,2026-10-02,18,2,60,0,1,Tutoring and Peer Study,Approved
+524,2026-10-02,13,2,100,1,0,Faculty Committee Review,Approved
+525,2026-10-02,11,1,40,1,1,Robotics Team Build,Approved
+526,2026-10-02,14,3,10,1,1,Tutoring and Peer Study,Approved
+527,2026-10-02,9,1,15,1,1,Robotics Team Build,Approved
+528,2026-10-02,11,1,10,1,1,Robotics Team Build,Pending
+529,2026-10-02,13,3,25,0,0,Tutoring and Peer Study,Rejected
+530,2026-10-02,10,2,60,1,0,Faculty Committee Review,Pending
+531,2026-10-02,11,3,40,1,1,Robotics Team Build,Pending
+532,2026-10-02,10,2,15,0,1,Guest Speaker Reception,Pending
+533,2026-10-03,19,1,60,0,1,Design Critique Session,Approved
+534,2026-10-03,17,1,40,1,0,Robotics Team Build,Rejected
+535,2026-10-03,15,1,15,1,1,Design Critique Session,Pending
+536,2026-10-03,18,2,60,1,1,Design Critique Session,Rejected
+537,2026-10-03,14,1,100,1,0,Hackathon Project Meeting,Approved
+538,2026-10-03,16,1,15,0,1,Faculty Committee Review,Approved
+539,2026-10-03,9,3,15,0,1,Tutoring and Peer Study,Approved
+540,2026-10-03,9,3,40,0,0,Tutoring and Peer Study,Approved
+541,2026-10-04,15,2,15,1,1,Midterm Study Session,Approved
+542,2026-10-04,11,1,40,0,0,Faculty Committee Review,Approved
+543,2026-10-04,10,3,40,0,1,Faculty Committee Review,Approved
+544,2026-10-04,15,3,60,1,0,Midterm Study Session,Approved
+545,2026-10-04,16,2,15,0,0,Hackathon Project Meeting,Approved
+546,2026-10-04,9,1,15,1,0,Hackathon Project Meeting,Approved
+547,2026-10-05,17,1,40,0,1,Robotics Team Build,Approved
+548,2026-10-05,19,3,60,1,0,Robotics Team Build,Rejected
+549,2026-10-05,11,1,10,1,1,Guest Speaker Reception,Approved
+550,2026-10-05,10,1,15,0,1,Guest Speaker Reception,Rejected
+551,2026-10-05,13,1,15,1,0,Design Critique Session,Rejected
+552,2026-10-05,11,2,25,0,1,Midterm Study Session,Pending
+553,2026-10-05,16,2,60,1,1,Faculty Committee Review,Approved
+554,2026-10-05,11,1,15,1,0,Faculty Committee Review,Approved
+555,2026-10-05,11,2,10,0,0,Design Critique Session,Approved
+556,2026-10-05,11,2,15,1,0,Robotics Team Build,Approved
+557,2026-10-05,9,1,40,1,0,Faculty Committee Review,Approved
+558,2026-10-05,10,3,100,1,1,Student Club Workshop,Approved
+559,2026-10-05,9,3,10,0,1,Design Critique Session,Pending
+560,2026-10-05,11,1,15,1,0,Faculty Committee Review,Rejected
+561,2026-10-05,14,1,40,0,0,Design Critique Session,Approved
+562,2026-10-05,15,1,25,0,0,Tutoring and Peer Study,Approved
+563,2026-10-05,9,2,100,1,0,Design Critique Session,Pending
+564,2026-10-05,17,3,15,0,1,Design Critique Session,Approved
+565,2026-10-06,15,1,100,0,0,Tutoring and Peer Study,Approved
+566,2026-10-06,15,3,60,1,0,Student Club Workshop,Approved
+567,2026-10-06,13,1,25,1,0,Design Critique Session,Approved
+568,2026-10-06,18,2,40,0,0,Hackathon Project Meeting,Rejected
+569,2026-10-06,10,2,100,1,1,Robotics Team Build,Approved
+570,2026-10-06,17,3,60,1,0,Hackathon Project Meeting,Approved
+571,2026-10-06,17,2,15,0,0,Student Club Workshop,Approved
+572,2026-10-06,11,3,15,1,0,Midterm Study Session,Approved
+573,2026-10-06,18,3,60,1,0,Hackathon Project Meeting,Approved
+574,2026-10-06,17,2,15,1,1,Faculty Committee Review,Rejected
+575,2026-10-06,17,1,15,0,0,Faculty Committee Review,Rejected
+576,2026-10-06,17,1,100,0,0,Design Critique Session,Approved
+577,2026-10-07,18,2,40,0,0,Hackathon Project Meeting,Rejected
+578,2026-10-07,18,1,100,1,0,Midterm Study Session,Approved
+579,2026-10-07,15,1,10,1,1,Hackathon Project Meeting,Rejected
+580,2026-10-07,11,2,10,0,0,Design Critique Session,Approved
+581,2026-10-07,9,3,15,0,0,Student Club Workshop,Approved
+582,2026-10-07,13,1,40,1,1,Design Critique Session,Approved
+583,2026-10-07,10,2,15,0,0,Hackathon Project Meeting,Approved
+584,2026-10-07,11,3,10,1,0,Robotics Team Build,Rejected
+585,2026-10-07,13,3,60,1,0,Design Critique Session,Pending
+586,2026-10-07,13,2,15,1,0,Robotics Team Build,Pending
+587,2026-10-07,16,2,15,1,0,Robotics Team Build,Approved
+588,2026-10-07,15,2,15,1,1,Design Critique Session,Approved
+589,2026-10-07,10,1,25,1,0,Tutoring and Peer Study,Approved
+590,2026-10-07,17,3,25,1,0,Tutoring and Peer Study,Approved
+591,2026-10-07,18,3,10,1,0,Design Critique Session,Approved
+592,2026-10-07,10,3,10,1,0,Faculty Committee Review,Pending
+593,2026-10-07,15,3,25,0,1,Robotics Team Build,Approved
+594,2026-10-08,19,1,15,0,0,Tutoring and Peer Study,Approved
+595,2026-10-08,11,3,25,0,1,Hackathon Project Meeting,Approved
+596,2026-10-08,11,1,100,1,1,Student Club Workshop,Approved
+597,2026-10-08,16,3,100,1,0,Hackathon Project Meeting,Pending
+598,2026-10-08,13,3,25,1,1,Tutoring and Peer Study,Rejected
+599,2026-10-08,18,2,100,1,1,Student Club Workshop,Approved
+600,2026-10-08,17,1,100,0,1,Guest Speaker Reception,Approved
+601,2026-10-08,18,3,15,0,0,Midterm Study Session,Approved
+602,2026-10-08,18,2,15,1,0,Guest Speaker Reception,Approved
+603,2026-10-08,17,1,10,0,0,Faculty Committee Review,Approved
+604,2026-10-08,9,1,60,0,0,Design Critique Session,Approved
+605,2026-10-08,16,3,15,1,0,Hackathon Project Meeting,Approved
+606,2026-10-08,10,2,15,1,0,Robotics Team Build,Approved
+607,2026-10-08,10,1,25,1,1,Robotics Team Build,Pending
+608,2026-10-08,16,2,100,1,1,Student Club Workshop,Approved
+609,2026-10-08,19,1,60,1,1,Midterm Study Session,Approved
+610,2026-10-08,14,3,10,1,0,Tutoring and Peer Study,Rejected
+611,2026-10-08,18,3,15,1,0,Design Critique Session,Approved
+612,2026-10-08,10,3,25,1,0,Tutoring and Peer Study,Approved
+613,2026-10-08,13,1,100,1,0,Midterm Study Session,Pending
+614,2026-10-09,14,3,10,1,0,Robotics Team Build,Rejected
+615,2026-10-09,11,1,10,1,0,Hackathon Project Meeting,Rejected
+616,2026-10-09,10,2,25,1,0,Robotics Team Build,Approved
+617,2026-10-09,17,1,15,0,1,Hackathon Project Meeting,Approved
+618,2026-10-09,14,2,15,0,0,Faculty Committee Review,Approved
+619,2026-10-09,9,2,60,0,1,Tutoring and Peer Study,Rejected
+620,2026-10-09,11,1,10,1,0,Design Critique Session,Pending
+621,2026-10-09,19,3,25,1,0,Hackathon Project Meeting,Pending
+622,2026-10-09,11,1,15,1,0,Student Club Workshop,Pending
+623,2026-10-09,13,2,25,0,0,Design Critique Session,Rejected
+624,2026-10-09,9,3,25,1,0,Hackathon Project Meeting,Rejected
+625,2026-10-09,11,3,60,0,1,Design Critique Session,Pending
+626,2026-10-10,16,2,25,0,1,Robotics Team Build,Approved
+627,2026-10-10,13,3,40,1,0,Robotics Team Build,Approved
+628,2026-10-10,16,1,25,0,0,Faculty Committee Review,Approved
+629,2026-10-10,14,2,60,0,0,Design Critique Session,Approved
+630,2026-10-10,18,1,25,0,0,Midterm Study Session,Rejected
+631,2026-10-10,9,3,40,1,0,Faculty Committee Review,Approved
+632,2026-10-10,17,3,60,1,0,Faculty Committee Review,Approved
+633,2026-10-10,10,3,10,0,0,Design Critique Session,Rejected
+634,2026-10-10,17,3,100,1,0,Design Critique Session,Approved
+635,2026-10-11,17,3,15,0,0,Robotics Team Build,Approved
+636,2026-10-11,13,3,25,1,0,Faculty Committee Review,Approved
+637,2026-10-11,19,1,100,0,1,Design Critique Session,Approved
+638,2026-10-11,14,3,25,0,0,Design Critique Session,Approved
+639,2026-10-11,15,1,40,1,0,Faculty Committee Review,Approved
+640,2026-10-11,13,2,40,1,0,Hackathon Project Meeting,Approved
+641,2026-10-12,17,1,60,1,0,Design Critique Session,Pending
+642,2026-10-12,16,2,60,1,1,Faculty Committee Review,Approved
+643,2026-10-12,18,2,10,0,0,Tutoring and Peer Study,Pending
+644,2026-10-12,11,1,60,1,1,Tutoring and Peer Study,Approved
+645,2026-10-12,10,3,10,0,0,Guest Speaker Reception,Rejected
+646,2026-10-12,18,2,15,0,0,Hackathon Project Meeting,Approved
+647,2026-10-12,9,2,15,0,0,Tutoring and Peer Study,Approved
+648,2026-10-12,11,1,60,0,0,Hackathon Project Meeting,Approved
+649,2026-10-12,18,2,100,1,0,Design Critique Session,Rejected
+650,2026-10-12,18,2,40,1,0,Midterm Study Session,Approved
+651,2026-10-12,19,1,60,1,0,Student Club Workshop,Pending
+652,2026-10-12,19,2,60,0,0,Design Critique Session,Approved
+653,2026-10-13,9,3,60,1,1,Tutoring and Peer Study,Approved
+654,2026-10-13,17,2,100,0,1,Hackathon Project Meeting,Approved
+655,2026-10-13,14,1,40,1,0,Robotics Team Build,Pending
+656,2026-10-13,16,1,40,1,1,Faculty Committee Review,Pending
+657,2026-10-13,15,2,40,0,0,Robotics Team Build,Approved
+658,2026-10-13,16,1,60,1,1,Student Club Workshop,Rejected
+659,2026-10-13,9,3,100,0,0,Robotics Team Build,Approved
+660,2026-10-13,18,3,10,0,0,Design Critique Session,Rejected
+661,2026-10-13,16,2,25,0,1,Robotics Team Build,Approved
+662,2026-10-13,13,1,25,1,0,Guest Speaker Reception,Approved
+663,2026-10-13,16,3,60,0,0,Hackathon Project Meeting,Approved
+664,2026-10-13,18,1,15,0,1,Tutoring and Peer Study,Approved
+665,2026-10-13,16,1,25,1,0,Robotics Team Build,Approved
+666,2026-10-13,19,3,100,0,1,Design Critique Session,Approved
+667,2026-10-14,9,2,10,1,0,Faculty Committee Review,Approved
+668,2026-10-14,9,1,10,0,0,Design Critique Session,Approved
+669,2026-10-14,13,1,100,1,0,Hackathon Project Meeting,Approved
+670,2026-10-14,16,1,100,1,0,Guest Speaker Reception,Pending
+671,2026-10-14,16,3,40,1,0,Design Critique Session,Approved
+672,2026-10-14,18,3,60,1,1,Midterm Study Session,Approved
+673,2026-10-14,11,2,25,0,0,Guest Speaker Reception,Approved
+674,2026-10-14,11,2,15,0,0,Faculty Committee Review,Rejected
+675,2026-10-14,19,2,40,0,0,Midterm Study Session,Approved
+676,2026-10-14,9,2,100,0,1,Faculty Committee Review,Rejected
+677,2026-10-14,16,1,60,0,0,Hackathon Project Meeting,Approved
+678,2026-10-14,13,1,60,1,0,Hackathon Project Meeting,Pending
+679,2026-10-14,11,2,25,0,0,Guest Speaker Reception,Rejected
+680,2026-10-14,15,1,100,1,0,Faculty Committee Review,Approved
+681,2026-10-14,17,1,40,1,1,Faculty Committee Review,Approved
+682,2026-10-14,15,3,10,1,0,Faculty Committee Review,Approved
+683,2026-10-14,11,2,10,1,1,Faculty Committee Review,Rejected
+684,2026-10-15,17,3,10,1,1,Midterm Study Session,Approved
+685,2026-10-15,10,2,15,0,0,Tutoring and Peer Study,Pending
+686,2026-10-15,14,1,15,0,0,Tutoring and Peer Study,Approved
+687,2026-10-15,15,1,25,1,0,Student Club Workshop,Approved
+688,2026-10-15,16,1,10,1,0,Midterm Study Session,Pending
+689,2026-10-15,11,2,15,0,0,Robotics Team Build,Approved
+690,2026-10-15,18,3,40,1,1,Faculty Committee Review,Approved
+691,2026-10-15,19,2,40,0,0,Midterm Study Session,Approved
+692,2026-10-15,16,2,40,0,0,Midterm Study Session,Approved
+693,2026-10-15,16,3,60,1,0,Design Critique Session,Approved
+694,2026-10-15,15,1,100,1,0,Tutoring and Peer Study,Pending
+695,2026-10-15,13,2,15,0,1,Hackathon Project Meeting,Pending
+696,2026-10-16,13,2,40,0,1,Hackathon Project Meeting,Approved
+697,2026-10-16,15,1,15,1,0,Robotics Team Build,Approved
+698,2026-10-16,18,3,25,0,0,Robotics Team Build,Approved
+699,2026-10-16,16,1,25,1,0,Design Critique Session,Approved
+700,2026-10-16,11,1,15,0,0,Guest Speaker Reception,Approved
+701,2026-10-16,19,1,40,1,0,Robotics Team Build,Approved
+702,2026-10-16,11,3,25,1,0,Faculty Committee Review,Approved
+703,2026-10-16,19,3,60,0,0,Design Critique Session,Approved
+704,2026-10-16,13,1,60,1,0,Faculty Committee Review,Approved
+705,2026-10-16,19,3,100,1,0,Design Critique Session,Approved
+706,2026-10-16,19,2,15,0,0,Design Critique Session,Approved
+707,2026-10-16,9,2,60,1,0,Tutoring and Peer Study,Approved
+708,2026-10-16,18,2,25,0,0,Midterm Study Session,Approved
+709,2026-10-16,18,2,40,1,0,Hackathon Project Meeting,Approved
+710,2026-10-16,11,1,100,1,1,Tutoring and Peer Study,Approved
+711,2026-10-16,17,1,15,0,1,Hackathon Project Meeting,Pending
+712,2026-10-17,14,1,15,1,0,Tutoring and Peer Study,Rejected
+713,2026-10-17,13,2,40,1,1,Robotics Team Build,Approved
+714,2026-10-17,19,1,100,1,0,Guest Speaker Reception,Approved
+715,2026-10-17,19,3,25,1,1,Faculty Committee Review,Approved
+716,2026-10-17,14,2,25,1,0,Hackathon Project Meeting,Approved
+717,2026-10-17,17,2,40,1,0,Faculty Committee Review,Approved
+718,2026-10-17,19,2,60,1,0,Student Club Workshop,Approved
+719,2026-10-18,15,1,15,0,0,Hackathon Project Meeting,Pending
+720,2026-10-18,18,3,60,1,0,Midterm Study Session,Approved
+721,2026-10-18,18,2,100,1,1,Robotics Team Build,Pending
+722,2026-10-18,10,1,60,1,0,Student Club Workshop,Approved
+723,2026-10-18,10,2,100,1,1,Tutoring and Peer Study,Pending
+724,2026-10-18,17,2,60,1,1,Midterm Study Session,Approved
+725,2026-10-18,14,2,25,0,0,Hackathon Project Meeting,Rejected
+726,2026-10-18,11,3,25,1,1,Tutoring and Peer Study,Approved
+727,2026-10-18,11,3,15,1,0,Hackathon Project Meeting,Pending
+728,2026-10-18,19,2,10,1,1,Midterm Study Session,Approved
+729,2026-10-18,19,2,10,1,0,Robotics Team Build,Approved
+730,2026-10-19,10,1,40,0,1,Guest Speaker Reception,Approved
+731,2026-10-19,17,2,60,1,1,Robotics Team Build,Approved
+732,2026-10-19,15,3,25,0,1,Hackathon Project Meeting,Approved
+733,2026-10-19,16,1,15,0,1,Hackathon Project Meeting,Approved
+734,2026-10-19,16,2,100,0,0,Guest Speaker Reception,Approved
+735,2026-10-19,19,2,40,0,1,Student Club Workshop,Approved
+736,2026-10-19,15,3,15,1,0,Tutoring and Peer Study,Approved
+737,2026-10-19,16,1,10,0,1,Faculty Committee Review,Approved
+738,2026-10-19,14,1,25,1,0,Hackathon Project Meeting,Approved
+739,2026-10-19,11,2,15,1,0,Student Club Workshop,Pending
+740,2026-10-19,16,2,40,1,0,Student Club Workshop,Approved
+741,2026-10-19,14,1,100,1,0,Hackathon Project Meeting,Approved
+742,2026-10-19,18,3,100,1,0,Faculty Committee Review,Approved
+743,2026-10-19,18,1,100,1,0,Design Critique Session,Approved
+744,2026-10-20,9,3,25,1,0,Robotics Team Build,Approved
+745,2026-10-20,19,1,10,0,0,Robotics Team Build,Approved
+746,2026-10-20,19,3,15,0,0,Faculty Committee Review,Pending
+747,2026-10-20,10,3,100,1,1,Hackathon Project Meeting,Pending
+748,2026-10-20,15,1,100,0,0,Faculty Committee Review,Rejected
+749,2026-10-20,16,3,40,0,0,Student Club Workshop,Approved
+750,2026-10-20,18,1,100,1,0,Hackathon Project Meeting,Approved
+751,2026-10-20,9,3,25,1,0,Robotics Team Build,Approved
+752,2026-10-20,13,2,60,0,0,Student Club Workshop,Approved
+753,2026-10-20,14,2,15,0,0,Hackathon Project Meeting,Approved
+754,2026-10-20,19,2,40,0,0,Robotics Team Build,Approved
+755,2026-10-20,17,3,10,1,0,Hackathon Project Meeting,Approved
+756,2026-10-20,17,3,10,1,1,Design Critique Session,Approved
+757,2026-10-20,10,1,40,1,0,Tutoring and Peer Study,Rejected
+758,2026-10-20,18,1,100,0,0,Faculty Committee Review,Approved
+759,2026-10-20,19,1,60,1,0,Faculty Committee Review,Pending
+760,2026-10-20,18,2,100,0,0,Design Critique Session,Pending
+761,2026-10-20,13,1,15,1,0,Robotics Team Build,Pending
+762,2026-10-20,17,1,15,1,0,Guest Speaker Reception,Approved
+763,2026-10-20,19,2,25,1,0,Midterm Study Session,Approved
+764,2026-10-20,9,3,10,1,1,Midterm Study Session,Approved
+765,2026-10-21,17,1,15,0,0,Faculty Committee Review,Approved
+766,2026-10-21,14,1,100,0,0,Design Critique Session,Pending
+767,2026-10-21,13,3,10,1,0,Hackathon Project Meeting,Approved
+768,2026-10-21,17,2,25,1,0,Robotics Team Build,Rejected
+769,2026-10-21,17,1,100,1,0,Student Club Workshop,Pending
+770,2026-10-21,18,3,10,0,1,Design Critique Session,Approved
+771,2026-10-21,17,2,60,1,0,Tutoring and Peer Study,Approved
+772,2026-10-21,18,1,60,1,0,Faculty Committee Review,Approved
+773,2026-10-21,10,1,15,1,1,Midterm Study Session,Approved
+774,2026-10-21,9,3,10,1,0,Hackathon Project Meeting,Pending
+775,2026-10-21,15,1,40,1,0,Robotics Team Build,Pending
+776,2026-10-21,14,2,100,1,1,Midterm Study Session,Approved
+777,2026-10-21,13,3,40,1,0,Tutoring and Peer Study,Rejected
+778,2026-10-21,17,3,15,1,1,Robotics Team Build,Pending
+779,2026-10-21,14,1,10,1,1,Tutoring and Peer Study,Pending
+780,2026-10-21,14,1,40,0,1,Student Club Workshop,Approved
+781,2026-10-22,13,3,40,1,0,Hackathon Project Meeting,Pending
+782,2026-10-22,11,3,40,1,0,Guest Speaker Reception,Approved
+783,2026-10-22,14,2,25,1,0,Midterm Study Session,Approved
+784,2026-10-22,11,3,25,1,0,Faculty Committee Review,Approved
+785,2026-10-22,13,2,15,0,0,Student Club Workshop,Rejected
+786,2026-10-22,15,3,100,1,1,Student Club Workshop,Approved
+787,2026-10-22,16,2,10,1,0,Hackathon Project Meeting,Approved
+788,2026-10-22,9,3,15,1,0,Tutoring and Peer Study,Rejected
+789,2026-10-22,9,1,25,0,0,Guest Speaker Reception,Approved
+790,2026-10-22,16,3,15,0,1,Hackathon Project Meeting,Pending
+791,2026-10-22,17,2,60,1,0,Faculty Committee Review,Approved
+792,2026-10-22,9,1,15,1,0,Student Club Workshop,Approved
+793,2026-10-22,17,3,100,0,0,Faculty Committee Review,Approved
+794,2026-10-22,17,1,40,1,0,Robotics Team Build,Approved
+795,2026-10-22,19,2,10,1,0,Hackathon Project Meeting,Approved
+796,2026-10-22,10,1,60,0,0,Tutoring and Peer Study,Approved
+797,2026-10-22,13,2,60,1,1,Hackathon Project Meeting,Approved
+798,2026-10-22,19,1,10,1,1,Tutoring and Peer Study,Rejected
+799,2026-10-22,19,3,15,0,0,Midterm Study Session,Approved
+800,2026-10-22,15,2,10,0,1,Hackathon Project Meeting,Pending
+801,2026-10-22,16,1,40,1,0,Tutoring and Peer Study,Approved
+802,2026-10-23,13,1,40,1,1,Robotics Team Build,Approved
+803,2026-10-23,17,3,60,0,0,Guest Speaker Reception,Approved
+804,2026-10-23,17,1,100,0,1,Robotics Team Build,Approved
+805,2026-10-23,15,3,15,1,0,Tutoring and Peer Study,Approved
+806,2026-10-23,17,1,25,1,0,Tutoring and Peer Study,Approved
+807,2026-10-23,13,1,60,1,1,Design Critique Session,Pending
+808,2026-10-23,19,2,40,1,1,Tutoring and Peer Study,Approved
+809,2026-10-23,13,2,25,1,0,Tutoring and Peer Study,Approved
+810,2026-10-23,10,1,10,1,0,Midterm Study Session,Rejected
+811,2026-10-23,17,3,10,1,0,Guest Speaker Reception,Approved
+812,2026-10-23,16,2,10,1,0,Hackathon Project Meeting,Approved
+813,2026-10-24,11,1,100,0,0,Faculty Committee Review,Approved
+814,2026-10-24,11,3,10,1,0,Design Critique Session,Approved
+815,2026-10-24,10,1,40,1,0,Faculty Committee Review,Rejected
+816,2026-10-24,10,1,25,0,0,Guest Speaker Reception,Rejected
+817,2026-10-24,10,3,25,0,1,Faculty Committee Review,Approved
+818,2026-10-24,18,3,15,0,1,Faculty Committee Review,Rejected
+819,2026-10-24,9,3,25,1,1,Robotics Team Build,Rejected
+820,2026-10-25,16,2,60,1,0,Tutoring and Peer Study,Pending
+821,2026-10-25,14,1,15,0,1,Design Critique Session,Approved
+822,2026-10-25,13,3,100,0,0,Guest Speaker Reception,Approved
+823,2026-10-25,14,1,60,1,0,Design Critique Session,Pending
+824,2026-10-25,9,2,60,1,1,Midterm Study Session,Approved
+825,2026-10-25,10,3,10,1,0,Guest Speaker Reception,Approved
+826,2026-10-25,14,3,40,0,0,Robotics Team Build,Approved
+827,2026-10-25,19,1,15,1,0,Design Critique Session,Rejected
+828,2026-10-25,9,3,25,1,0,Design Critique Session,Approved
+829,2026-10-26,16,3,100,1,1,Student Club Workshop,Pending
+830,2026-10-26,9,1,40,0,0,Faculty Committee Review,Approved
+831,2026-10-26,13,1,10,0,1,Design Critique Session,Approved
+832,2026-10-26,11,1,15,1,1,Tutoring and Peer Study,Approved
+833,2026-10-26,10,1,60,1,0,Tutoring and Peer Study,Approved
+834,2026-10-26,11,3,100,1,1,Tutoring and Peer Study,Approved
+835,2026-10-26,16,1,40,1,1,Design Critique Session,Approved
+836,2026-10-26,10,2,25,1,0,Robotics Team Build,Pending
+837,2026-10-26,11,3,15,0,0,Hackathon Project Meeting,Approved
+838,2026-10-26,10,2,15,1,0,Tutoring and Peer Study,Approved
+839,2026-10-26,10,2,100,0,0,Guest Speaker Reception,Pending
+840,2026-10-26,17,2,40,0,0,Guest Speaker Reception,Approved
+841,2026-10-26,18,1,25,1,1,Guest Speaker Reception,Approved
+842,2026-10-26,17,2,25,0,0,Tutoring and Peer Study,Pending
+843,2026-10-27,15,1,10,0,1,Guest Speaker Reception,Approved
+844,2026-10-27,14,1,25,0,0,Midterm Study Session,Approved
+845,2026-10-27,13,2,60,0,0,Guest Speaker Reception,Pending
+846,2026-10-27,18,2,100,1,1,Design Critique Session,Approved
+847,2026-10-27,15,1,60,1,0,Tutoring and Peer Study,Approved
+848,2026-10-27,13,2,10,0,1,Student Club Workshop,Rejected
+849,2026-10-27,14,1,25,1,1,Design Critique Session,Approved
+850,2026-10-27,11,2,25,0,1,Faculty Committee Review,Approved
+851,2026-10-27,14,3,100,1,1,Faculty Committee Review,Approved
+852,2026-10-27,18,1,15,1,0,Midterm Study Session,Approved
+853,2026-10-27,19,3,100,0,1,Tutoring and Peer Study,Pending
+854,2026-10-27,19,1,15,1,0,Guest Speaker Reception,Approved
+855,2026-10-27,19,1,15,1,1,Midterm Study Session,Approved
+856,2026-10-28,17,2,40,0,0,Student Club Workshop,Approved
+857,2026-10-28,17,1,60,0,0,Design Critique Session,Approved
+858,2026-10-28,9,2,40,0,0,Design Critique Session,Approved
+859,2026-10-28,16,2,10,1,1,Design Critique Session,Rejected
+860,2026-10-28,16,2,60,0,1,Robotics Team Build,Pending
+861,2026-10-28,19,3,60,1,0,Design Critique Session,Approved
+862,2026-10-28,11,2,60,1,1,Robotics Team Build,Pending
+863,2026-10-28,13,1,60,1,1,Student Club Workshop,Approved
+864,2026-10-28,15,1,40,0,0,Design Critique Session,Approved
+865,2026-10-28,11,1,40,0,0,Guest Speaker Reception,Approved
+866,2026-10-28,17,3,15,1,0,Tutoring and Peer Study,Approved
+867,2026-10-28,15,3,25,0,0,Student Club Workshop,Approved
+868,2026-10-28,18,3,100,0,0,Faculty Committee Review,Approved

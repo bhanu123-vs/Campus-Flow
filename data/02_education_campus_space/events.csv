@@ -1,0 +1,32 @@
+event_id,room_id,event_type,start_time,duration_hours,expected_attendance,actual_attendance
+1,SCI-103,Guest Lecture,2026-08-15 17:00:00,2,35,25
+2,ENG-102,Student Orientation,2026-08-18 13:00:00,3,22,21
+3,ENG-201,Research Colloquium,2026-08-19 10:00:00,3,15,12
+4,SCI-201,Guest Lecture,2026-08-25 18:00:00,2,7,5
+5,INN-101,Hackathon,2026-08-28 17:00:00,4,44,47
+6,ENG-201,Alumni Networking,2026-08-29 17:00:00,3,20,14
+7,HUM-301,Alumni Networking,2026-09-05 17:00:00,4,12,13
+8,INN-103,Student Orientation,2026-09-06 17:00:00,3,31,27
+9,SCI-403,Career Fair,2026-09-15 10:00:00,2,31,23
+10,STU-102,Guest Lecture,2026-09-16 18:00:00,3,62,47
+11,INN-101,Hackathon,2026-09-21 13:00:00,2,50,52
+12,SCI-403,Student Orientation,2026-09-22 17:00:00,3,28,20
+13,HUM-101,Hackathon,2026-09-24 13:00:00,2,16,11
+14,INN-101,Alumni Networking,2026-09-25 18:00:00,2,66,50
+15,HUM-102,Alumni Networking,2026-09-29 13:00:00,3,15,17
+16,INN-303,Career Fair,2026-09-30 17:00:00,3,21,21
+17,HUM-102,Guest Lecture,2026-10-03 15:00:00,4,17,15
+18,ENG-202,Alumni Networking,2026-10-04 18:00:00,4,22,17
+19,HUM-201,Student Orientation,2026-10-05 10:00:00,4,13,12
+20,STU-201,Alumni Networking,2026-10-06 18:00:00,2,18,16
+21,HUM-303,Hackathon,2026-10-07 15:00:00,2,40,28
+22,ENG-203,Guest Lecture,2026-10-08 13:00:00,4,19,20
+23,ENG-102,Career Fair,2026-10-09 10:00:00,3,21,15
+24,HUM-103,Career Fair,2026-10-10 18:00:00,2,20,16
+25,HUM-302,Research Colloquium,2026-10-12 17:00:00,2,49,50
+26,HUM-202,Alumni Networking,2026-10-13 17:00:00,3,26,23
+27,ENG-203,Hackathon,2026-10-16 10:00:00,3,14,12
+28,SCI-203,Career Fair,2026-10-19 18:00:00,2,54,53
+29,STU-102,Career Fair,2026-10-20 13:00:00,3,60,52
+30,SCI-403,Guest Lecture,2026-10-21 10:00:00,2,26,22
+31,INN-103,Hackathon,2026-10-23 10:00:00,4,32,28

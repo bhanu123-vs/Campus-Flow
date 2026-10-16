@@ -1,0 +1,96 @@
+schedule_id,room_id,course_code,weekday,start_hour,duration_hours,expected_attendance,department
+1,STU-202,CS101,Monday,14,1,41,Computer Science
+2,INN-303,CS201,Monday,13,1,15,Computer Science
+3,HUM-203,CS310,Monday,10,2,7,Computer Science
+4,HUM-302,CS450,Monday,15,2,63,Computer Science
+5,ENG-302,CS502,Monday,11,2,17,Computer Science
+6,INN-202,MATH110,Monday,9,2,32,Mathematics
+7,ENG-202,MATH215,Monday,13,1,18,Mathematics
+8,INN-302,MATH300,Monday,16,1,105,Mathematics
+9,ENG-201,MATH420,Monday,14,1,23,Mathematics
+10,SCI-102,PHYS101,Monday,14,1,18,Physics
+11,SCI-102,PHYS220,Monday,16,2,21,Physics
+12,INN-103,PHYS310,Monday,9,1,24,Physics
+13,ENG-301,ENG101,Monday,10,1,71,Literature
+14,SCI-101,ENG220,Monday,8,2,45,Literature
+15,SCI-303,LIT305,Monday,14,2,55,Literature
+16,ENG-103,BUS101,Monday,11,2,28,Business
+17,INN-203,MKT200,Monday,11,2,13,Business
+18,ENG-102,FIN310,Monday,11,2,19,Business
+19,INN-102,MGMT405,Monday,14,2,22,Business
+20,HUM-303,CS101,Tuesday,10,2,24,Computer Science
+21,INN-303,CS201,Tuesday,15,1,25,Computer Science
+22,STU-101,CS310,Tuesday,14,1,13,Computer Science
+23,HUM-301,CS450,Tuesday,10,1,17,Computer Science
+24,HUM-203,CS502,Tuesday,9,2,8,Computer Science
+25,SCI-102,MATH110,Tuesday,15,2,21,Mathematics
+26,SCI-303,MATH215,Tuesday,9,1,48,Mathematics
+27,INN-103,MATH300,Tuesday,8,2,29,Mathematics
+28,ENG-301,MATH420,Tuesday,10,1,113,Mathematics
+29,STU-203,PHYS101,Tuesday,15,1,26,Physics
+30,HUM-101,PHYS220,Tuesday,13,2,12,Physics
+31,HUM-201,PHYS310,Tuesday,14,1,14,Physics
+32,HUM-101,ENG101,Tuesday,13,2,19,Literature
+33,HUM-102,ENG220,Tuesday,10,1,18,Literature
+34,SCI-402,LIT305,Tuesday,11,1,50,Literature
+35,ENG-303,BUS101,Tuesday,16,2,50,Business
+36,HUM-101,MKT200,Tuesday,9,2,23,Business
+37,STU-103,FIN310,Tuesday,9,2,12,Business
+38,STU-102,MGMT405,Tuesday,16,1,74,Business
+39,HUM-202,CS101,Wednesday,16,2,22,Computer Science
+40,STU-202,CS201,Wednesday,9,2,71,Computer Science
+41,SCI-202,CS310,Wednesday,10,2,36,Computer Science
+42,STU-201,CS450,Wednesday,8,2,14,Computer Science
+43,INN-101,CS502,Wednesday,8,1,51,Computer Science
+44,ENG-201,MATH110,Wednesday,8,1,23,Mathematics
+45,ENG-203,MATH215,Wednesday,11,1,14,Mathematics
+46,SCI-102,MATH300,Wednesday,10,1,16,Mathematics
+47,SCI-401,MATH420,Wednesday,11,2,11,Mathematics
+48,SCI-303,PHYS101,Wednesday,8,2,44,Physics
+49,ENG-103,PHYS220,Wednesday,9,2,35,Physics
+50,INN-201,PHYS310,Wednesday,10,2,15,Physics
+51,INN-303,ENG101,Wednesday,8,2,27,Literature
+52,INN-303,ENG220,Wednesday,8,2,25,Literature
+53,SCI-302,LIT305,Wednesday,14,2,42,Literature
+54,SCI-101,BUS101,Wednesday,11,1,26,Business
+55,INN-102,MKT200,Wednesday,10,2,27,Business
+56,SCI-103,FIN310,Wednesday,8,1,28,Business
+57,HUM-201,MGMT405,Wednesday,16,1,16,Business
+58,INN-103,CS101,Thursday,14,2,27,Computer Science
+59,SCI-402,CS201,Thursday,11,2,46,Computer Science
+60,INN-101,CS310,Thursday,10,1,50,Computer Science
+61,HUM-303,CS450,Thursday,16,2,40,Computer Science
+62,STU-103,CS502,Thursday,14,2,8,Computer Science
+63,SCI-103,MATH110,Thursday,15,1,39,Mathematics
+64,INN-302,MATH215,Thursday,10,1,100,Mathematics
+65,HUM-202,MATH300,Thursday,9,1,19,Mathematics
+66,HUM-102,MATH420,Thursday,9,2,10,Mathematics
+67,SCI-202,PHYS101,Thursday,11,2,29,Physics
+68,STU-203,PHYS220,Thursday,13,2,35,Physics
+69,SCI-403,PHYS310,Thursday,10,1,28,Physics
+70,SCI-203,ENG101,Thursday,11,1,55,Literature
+71,ENG-103,ENG220,Thursday,15,2,39,Literature
+72,INN-101,LIT305,Thursday,9,2,57,Literature
+73,INN-202,BUS101,Thursday,10,2,37,Business
+74,ENG-103,MKT200,Thursday,16,2,46,Business
+75,ENG-303,FIN310,Thursday,9,1,35,Business
+76,ENG-302,MGMT405,Thursday,11,1,15,Business
+77,INN-102,CS101,Friday,11,2,19,Computer Science
+78,INN-202,CS201,Friday,9,1,30,Computer Science
+79,INN-203,CS310,Friday,8,2,22,Computer Science
+80,HUM-202,CS450,Friday,13,2,26,Computer Science
+81,INN-103,CS502,Friday,9,2,30,Computer Science
+82,INN-103,MATH110,Friday,8,1,31,Mathematics
+83,ENG-202,MATH215,Friday,13,1,18,Mathematics
+84,ENG-303,MATH300,Friday,8,2,42,Mathematics
+85,SCI-303,MATH420,Friday,14,2,45,Mathematics
+86,SCI-301,PHYS101,Friday,14,1,10,Physics
+87,INN-102,PHYS220,Friday,13,1,21,Physics
+88,INN-101,PHYS310,Friday,15,2,40,Physics
+89,STU-203,ENG101,Friday,11,2,36,Literature
+90,STU-103,ENG220,Friday,13,2,11,Literature
+91,SCI-203,LIT305,Friday,13,1,59,Literature
+92,HUM-202,BUS101,Friday,16,2,21,Business
+93,SCI-302,MKT200,Friday,9,1,33,Business
+94,SCI-201,FIN310,Friday,10,2,6,Business
+95,ENG-302,MGMT405,Friday,13,1,13,Business
